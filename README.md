@@ -1,2 +1,2 @@
 # Machinegram
-Machinegram es un sistema para compartir imagénes.
+Machinegram es un sistema para compartir imágenes.
